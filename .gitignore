@@ -1,0 +1,3 @@
+#ignora archivo checkpoint del cuaderno
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
