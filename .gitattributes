@@ -1,0 +1,1 @@
+6302_degraded_withnoise_stray_hinode_mu05.fits filter=lfs diff=lfs merge=lfs -text
