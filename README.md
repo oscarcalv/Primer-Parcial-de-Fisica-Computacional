@@ -28,6 +28,6 @@ Flow-Moat Flow Connection. 814(2), 125 (2015). https://doi.org/10.1088/0004-637X
 
 + .T. Ishikawa, Y. Katsukawa, T. Oba, M. Nakata, K. Nagaoka, T. Kobayashi, Study
 of the Dynamics of Convective Turbulence in the Solar Granulation by Spectral Line
-Broadening and Asymmetry. 890(2), 138 (2020). https://doi.org/10.3847/1538-4357/ab6ce
+Broadening and Asymmetry. 890(2), 138 (2020). https://doi.org/10.3847/1538-4357/ab6bce
 
 
