@@ -1,7 +1,11 @@
 <h1 align="center">
-  <p align="center">Primer parcial de física computacional por Óscar Calvo y Julian Barahona</p>
+  <p align="center">Primer parcial de física computacional </p>
   <img src="https://github.com/oscarcalv/Primer-Parcial-de-Fisica-Computacional/blob/master/imagenes_readme/JHV_2022-09-15_19.03.40-0001.png" width="800" height="200"></a>
 </h1>
+
+###"Autores: Óscar Calvo y Julian Barahona"
+
+
 
 Dataset de  espectros estrellas de tipo solar y cubo de datos de mancha solar por simulación MHD.
 =======
