@@ -24,12 +24,10 @@ ity Database of Solar-like Stars Based on the LAMOST Low-Resolution Spectroscopi
 Survey. arXiv e-prints arXiv:2209.15255 (2022). arXiv:2209.15255 [astro-ph.SR]
 
 + M. Rempel, Numerical Simulations of Sunspot Decay: On the Penumbra-Evershed
-Flow-Moat Flow Connection. 814(2), 125 (2015). https://doi.org/10.1088/
-0004-637X/814/2/125
+Flow-Moat Flow Connection. 814(2), 125 (2015). https://doi.org/10.1088/0004-637X/814/2/125
 
 + .T. Ishikawa, Y. Katsukawa, T. Oba, M. Nakata, K. Nagaoka, T. Kobayashi, Study
 of the Dynamics of Convective Turbulence in the Solar Granulation by Spectral Line
-Broadening and Asymmetry. 890(2), 138 (2020). https://doi.org/10.3847/
-1538-4357/ab6ce
+Broadening and Asymmetry. 890(2), 138 (2020). https://doi.org/10.3847/1538-4357/ab6ce
 
 
