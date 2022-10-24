@@ -9,7 +9,8 @@ Dataset de  espectros estrellas de tipo solar y cubo de datos de mancha solar po
 Acerca del dataset y el cubo de datos.
 -----
 
-> **dataset de estrellas de tipo solar basadas en el telescopio LAMOST de baja resolución 
+> **dataset de espectros de estrellas de tipo solar para analizar actividades cromosfericas
+ basadas en el telescopio LAMOST de baja resolución 
 en líneas de Calcio ionizado, el cual es suministrado por Weitao Zhangy y demás autores; 
 además se hace un analisis a las velocidades en la línea de la visual del flujo del plasma 
 de una mancha solar a un cubo de datos de una simulación MHD hecha por Mathias Rempel y 
