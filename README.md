@@ -5,7 +5,6 @@
 
 ----------------
 `Autores: Óscar Calvo y Julian Barahona`
-----------------
 
 
 Dataset de  espectros estrellas de tipo solar y cubo de datos de mancha solar por simulación MHD.
