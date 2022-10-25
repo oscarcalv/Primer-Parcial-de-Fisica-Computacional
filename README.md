@@ -19,7 +19,11 @@ en líneas de Calcio ionizado, el cual es suministrado por Weitao Zhangy y demá
 además se hace un analisis a las velocidades en la línea de la visual del flujo del plasma 
 de una mancha solar a un cubo de datos de una simulación MHD hecha por Mathias Rempel y 
 demás autores en una línea del hierro, al solucionar la ecuaciones de transferencia radiativa
-para luz polarizada asumiento equilibrio termico local**
+para luz polarizada asumiento equilibrio termico local, el objetivo es encontrar relaciones
+entre diferentes parámetros físicos en estrellas de tipo solar como metalicidad, velocidad 
+radial, gravedad superficial, temperatura efectiva y demás parámetros, en el cubo de datos 
+se hara una rutina de como el telescopio obtiene las velocidades radiales o velocidades en la
+línea de la visual, pero solucionando para una mancha solar por el método de los bisectores.**
 
 
 Referencias
